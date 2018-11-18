@@ -10,6 +10,7 @@ int main()
 	setlocale(LC_ALL, "Russian");
 	cout << "¬ведите 2 целых числа" << endl;
 	cin >> a >> b;
+	cout << "—умма" << a + b << endl;
 	_getch();
 	return 0;
 }
