@@ -5,6 +5,7 @@
 
 using namespace std;
 
+//программа является учебной
 int main()
 {
 	setlocale(LC_ALL, "Russian");
